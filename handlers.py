@@ -8,7 +8,7 @@ array_keyboard = ['Button1', 'Button2']
 
 
 async def send_to_admin(dp):
-    await bot.send_message(chat_id=155752773, text="Bot start")
+    await bot.send_message(chat_id=925830821, text="Bot start")
 
 
 # Function of start bot
